@@ -14,7 +14,7 @@
 - [ ] Chinese Empire
 
 ### Democratic Countries
-- [ ] European Union
+- [ ] European Federation
 - [ ] Indian Republic
 - [ ] Papua The New Guinea
 - [ ] West African Goverment
