@@ -9,9 +9,10 @@
 - [ ] Kingdom of Brazil
 - [ ] The Ottoman Empire
 - [ ] Kindgom of Egypt
-- [ ] Ost-India
+- [ ] Ost-Indian Kingdom
 - [ ] Kingdom of New Zeland
 - [ ] Chinese Empire
+- [ ] Kingdom of Spain
 
 ### Democratic Countries
 - [ ] European Federation
@@ -21,14 +22,16 @@
 - [ ] Central Asian Union
 - [ ] East-Urals Republic
 - [ ] Chinese Republic
+- [ ] Spain
 
 ### Communist Countries
 - [ ] Communist States of North America
 - [ ] Australian People's Union
-- [ ] Argentinian Communist Regime
+- [ ] South American Communist Regime
 - [ ] People's Union of South Africa
 - [ ] Central American Goverment
 - [ ] Chinese People's Republic
+- [ ] Spanish Socialist Republic
 
 ### Fascist Countries
 - [ ] Russian Empire
@@ -36,6 +39,4 @@
 - [ ] North Rebellion of Brazil
 - [ ] African Rebellion
 - [ ] Chinese Military Governor
-
-### Other
 - [ ] Spanish Protectorate
