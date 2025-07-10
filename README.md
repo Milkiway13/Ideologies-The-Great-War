@@ -1,3 +1,5 @@
+# WARNING! THIS MOD ISN'T PLAYABLE YET!
+
 # Ideologies: The Great War - progress
 
 - [ ] Map(10%)
