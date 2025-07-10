@@ -1,0 +1,40 @@
+#Democratic Countries
+EUF = "countries/European Federation.txt"
+INI = "countries/Indian Republic.txt"
+PAG = "countries/Papua New Guinea.txt"
+WAG = "countries/West African Goverment.txt"
+CAU = "countries/Central Asian Union.txt"
+EUR = "countries/East-Urals Republic.txt"
+CHD = "countries/Chinese Republic.txt"
+DSP = "countries/Spain.txt"
+
+#Monarchist Countries
+EUK = "countries/The Empire of The United Kingdom.txt"
+BRZ = "countries/Kingdom of Brazil.txt"
+OTT = "countries/The Ottoman Empire.txt"
+EGP = "countries/Kingdom of Egypt.txt"
+OST = "countries/Ost-Indian Kingdom.txt"
+KNZ = "countries/Kingdom of New Zeland.txt"
+CHM = "countries/Chinese Empire.txt"
+KSP = "countries/Kingdom of Spain.txt"
+
+#Communist Countries
+CSN = "countries/Communist States of North America.txt"
+ASU = "countries/Australian People's Union.txt"
+SAC = "countries/South American Communist Regime.txt"
+PUS = "countries/People's Union of South Africa.txt"
+CAG = "countries/Central American Goverment.txt"
+CHC = "countries/Chinese People's Republic.txt"
+SSR = "countries/Spanish Socialist Republic.txt"
+
+#Fascist Countries
+RUE = "countries/Russian Empire.txt"
+JEM = "countries/Japanese Empire.txt"
+BRF = "countries/North Rebellion of Brazil.txt"
+AFR = "countries/African Rebellion.txt"
+CHF = "countries/Chinese Military Governor.txt"
+SPF = "countries/Spanish Protectorate.txt"
+
+#Fascist/Monarchist Countries
+MIT = "countries/Mittelafrika.txt"
+BOL = "countries/Bolivar Kingdom.txt"
