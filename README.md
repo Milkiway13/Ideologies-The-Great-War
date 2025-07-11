@@ -42,3 +42,7 @@
 - [ ] African Rebellion
 - [ ] Chinese Military Governor
 - [ ] Spanish Protectorate
+
+### Fascist/Monarchist Countries 
+- [ ] Bolivar Kingdom
+- [ ] Mittelafrika
