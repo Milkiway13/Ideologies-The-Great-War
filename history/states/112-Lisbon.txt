@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = POR
+		owner = SPF
 		victory_points = {
 			11805 20 
 		}
@@ -23,8 +23,8 @@ state={
 				naval_base = 8
 			}
 		}
-		add_core_of = POR
-
+		add_core_of = SPF
+		add_claim_by = EUF
 	}
 
 	provinces={

@@ -12,7 +12,7 @@ state= {
 
 	history=
 	{
-		owner = ENG
+		owner = EUK
 		victory_points = {
 			407 3 #Swansea
 		}
@@ -28,13 +28,8 @@ state= {
 			}
 		}
 		add_core_of = ENG
-		add_core_of = WLS
-		1936.10.1 = {
-			buildings = {
-				arms_factory = 3
-				industrial_complex = 2
-			}
-		}
+		add_claim_by = EUF
+		
 	}
 
 	provinces=

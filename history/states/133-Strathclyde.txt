@@ -11,8 +11,7 @@ state={
 	}
 
 	history={
-		add_core_of = SCO
-		owner = ENG
+		owner = EUK
 		victory_points = {
 			3273 15
 		}
@@ -30,13 +29,8 @@ state={
 			}
 
 		}
-		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-				industrial_complex = 2
-			}
-		}
+		add_core_of = EUK
+		add_claim_by = EUF
 	}
 
 	provinces={

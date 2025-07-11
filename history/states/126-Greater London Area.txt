@@ -6,7 +6,7 @@ state={
 	state_category = megalopolis
 
 	history={
-		owner = ENG
+		owner = EUK
 		victory_points = {
 			6103 50 
 		}
@@ -32,13 +32,8 @@ state={
 			}
 
 		}
-		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 4
-				industrial_complex = 4
-			}
-		}
+		add_core_of = EUK
+		add_claim_by = EUF
 	}
 
 	provinces={
