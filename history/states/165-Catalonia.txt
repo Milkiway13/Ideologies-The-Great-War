@@ -7,8 +7,12 @@ state={
 	state_category = large_city
 
 	history={
-		owner = SPR
-		add_core_of = CAT
+		owner = SPF
+		add_core_of = SSR
+		add_core_of = KSP
+		add_core_of = DSP
+		add_core_of = EUF
+		add_core_of = SPF
 		victory_points = {
 			9764 30
 		}
@@ -27,7 +31,7 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = SPR
+		
 	}
 
 	provinces={

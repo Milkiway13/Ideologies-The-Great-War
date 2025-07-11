@@ -6,7 +6,7 @@ state={
 		tungsten=10.000
 	}
 	history={
-		owner = SPR
+		owner = SPF
 		victory_points = {
 			726 1
 		}
@@ -15,7 +15,11 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = SPR
+		add_core_of = SSR
+		add_core_of = SPF
+		add_core_of = KSP
+		add_core_of = DSP
+		add_core_of = EUF
 
 	}
 

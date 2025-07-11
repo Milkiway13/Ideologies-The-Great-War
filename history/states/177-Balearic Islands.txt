@@ -11,9 +11,12 @@ state = {
 			9793 1
 		}
 
-		owner = SPR
-		add_core_of = SPR
-		add_claim_by = CAT
+		owner = SPF
+		add_core_of = SSR
+		add_core_of = SPF
+		add_core_of = KSP
+		add_core_of = DSP
+		add_core_of = EUF
 
 		buildings = {
 			infrastructure = 3 #was: 6

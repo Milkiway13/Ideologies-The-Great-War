@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = SPF
 		victory_points = {
 			9979 5
 		}
@@ -30,7 +30,11 @@ state={
 			}
 
 		}
-		add_core_of = SPR
+		add_core_of = SSR
+		add_core_of = SPF
+		add_core_of = KSP
+		add_core_of = DSP
+		add_core_of = EUF
 
 	}
 
