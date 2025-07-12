@@ -7,15 +7,16 @@ state={
 	state_category = city
 
 	history={
-		owner = SOV
+		owner = OTT
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
 		victory_points = {
 			6474 10
 		}
-		add_core_of = SOV
-		add_core_of = UKR
+		add_core_of = EUF
+		add_core_of = OTT
+		add_claim_by = RUE
 	}
 
 	provinces={

@@ -7,8 +7,10 @@ state = {
 
 	history = {
 
-		owner = SOV
-		add_core_of = SOV
+		owner = OTT
+		add_core_of = EUF
+		add_core_of = RUE
+		add_core_of = OTT
 
 		victory_points = {
 			3529 30 # Stalingrad
@@ -25,11 +27,6 @@ state = {
 
 		}
 		
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-			}
-		}
 	}
 
 	provinces = {
