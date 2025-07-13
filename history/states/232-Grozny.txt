@@ -11,7 +11,7 @@ state = {
 
 	history = {
 
-		owner = SOV
+		owner = OTT
 
 		buildings = {
 			infrastructure = 2
@@ -25,9 +25,9 @@ state = {
 			7624 1 # Derbent
 		}
 
-		add_core_of = SOV
-		add_core_of = DAG
-
+		add_core_of = OTT
+		add_core_of = EUF
+		add_core_of = RUE
 	}
 
 	provinces = {

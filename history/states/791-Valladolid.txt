@@ -5,17 +5,18 @@ state={
 		tungsten=10.000 #added due to Portugal Setup
 	}
 	history={
-		owner = SPR
+		owner = SPF
 		victory_points = {
 			11825 3 
 		}
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
-
 		}
-		add_core_of = SPR
-
+		add_core_of = SPF
+		add_core_of = KSP
+		add_core_of = SSR
+		add_core_of = DSP
 	}
 
 	provinces={

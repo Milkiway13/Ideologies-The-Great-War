@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = SPR
+		owner = SPF
 		victory_points = {
 			740 10
 		}
@@ -20,7 +20,10 @@ state={
 			}
 			air_base = 1
 		}
-		add_core_of = SPR
+		add_core_of = SPF
+		add_core_of = KSP
+		add_core_of = SSR
+		add_core_of = DSP
 
 	}
 

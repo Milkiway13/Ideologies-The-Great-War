@@ -2,7 +2,7 @@
 
 # Ideologies: The Great War - progress
 
-- [ ] Map(23%)
+- [ ] Map(28%)
 
 ## Focuses of Countries
 
