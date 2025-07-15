@@ -10,8 +10,8 @@ state = {
 
 	history = {
 
-		owner = PER
-		add_core_of = PER
+		owner = OTT
+		add_core_of = OTT
 
 		victory_points = {
 			8117 3 

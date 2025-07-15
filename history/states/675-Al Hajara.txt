@@ -7,8 +7,8 @@ state = {
 
 	history = {
 
-		owner = IRQ
-		add_core_of = IRQ
+		owner = OTT
+		add_core_of = OTT
 
 		victory_points = {
 			12879 1 # Samawah
