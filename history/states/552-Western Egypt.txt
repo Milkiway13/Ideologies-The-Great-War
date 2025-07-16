@@ -8,17 +8,17 @@ state={
 	impassable = yes
 
 	history={
-		owner = ENG
+		owner = EGP
 		buildings = {
 			infrastructure = 0
 		}
 
-		add_core_of = EGY
+		add_core_of = EGP
 
 	}
 
 	provinces={
-		1143 2064 7216 10127 10869 10907 12099 12733 12764 12816 
+		1143 2064 7216 10127 10869 10907 12099 12733 12764 12816 1060 11951 10785 1140 1057 10104 4191
 	}
 
 	local_supplies=0.0 

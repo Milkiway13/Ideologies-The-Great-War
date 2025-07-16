@@ -7,9 +7,9 @@ state = {
 
 	history = {
 
-		owner = PAL
-		add_core_of = PAL
-		add_core_of = ISR
+		owner = EGP
+		add_core_of = EGP
+		add_core_of = OTT
 
 		buildings = {
 			infrastructure = 3 #was: 5

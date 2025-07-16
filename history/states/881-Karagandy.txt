@@ -3,16 +3,16 @@ state = {
 	name = "STATE_881" # Karagandy
 
 	history = {
-		owner = SOV
+		owner = CAU
 		#victory_points = {
 		#	7597 1
 		#}
-		add_core_of = KAZ
+		add_claim_by = RUE
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SOV
+		add_core_of = CAU
 
 	}
 

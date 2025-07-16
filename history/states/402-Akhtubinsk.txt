@@ -6,7 +6,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = CAU
 		victory_points = {
 			7341 1
 		}
@@ -15,7 +15,8 @@ state={
 			infrastructure = 2
 
 		}
-		add_core_of = SOV
+		add_claim_by = RUE
+		add_core_of = CAU
 
 	}
 

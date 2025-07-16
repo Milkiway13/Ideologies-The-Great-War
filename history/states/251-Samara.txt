@@ -7,8 +7,9 @@ state = {
 
 	history = {
 
-		owner = SOV
-		add_core_of = SOV
+		owner = EUF
+		add_core_of = EUF
+		add_core_of = RUE
 
 		victory_points = {
 			11225 3 # Kuybyshev
@@ -21,13 +22,6 @@ state = {
 
 			# Kuybyshev Hydroelectric Station
 			#6275 = { dam = 1 }
-
-		}
-		
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 3
-			}
 		}
 	}
 

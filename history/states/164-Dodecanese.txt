@@ -7,7 +7,7 @@ state=
 	state_category = small_island
 	
 	history = {
-		owner = EUF
+		owner = OTT
 		victory_points = {
 			10007 1 
 		}
@@ -21,8 +21,8 @@ state=
 				naval_base = 1
 			}
 		}
-		add_core_of = EUF
-		add_claim_by = OTT
+		add_core_of = OTT
+		add_claim_by = EUF
 
 		### CHANGED TO A MROE ROBUST SYSTEM
 		##CONTROLLED BY ITALY AT GAME START -> ITALIAN NAMES

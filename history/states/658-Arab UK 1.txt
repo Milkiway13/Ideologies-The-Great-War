@@ -11,8 +11,8 @@ state = {
 
 	history = {
 		
-		owner = ENG
-		add_core_of = UAE
+		owner = OTT
+		add_core_of = OTT
 
 		victory_points = {
 			7960 1 # Abu Dhabi

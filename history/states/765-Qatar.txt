@@ -6,8 +6,8 @@ state = {
 
 	history = {
 		
-		owner = ENG
-		add_core_of = QAT
+		owner = OTT
+		add_core_of = OTT
 
 		victory_points = {
 			8051 1 # Doha
