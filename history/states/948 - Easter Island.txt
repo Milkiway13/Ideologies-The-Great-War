@@ -6,9 +6,9 @@ state = {
 	
 	history = {
 
-		owner = CHL
-		add_core_of = CHL
-		add_core_of = RAP
+		owner = SAC
+		add_claim_by = EUK
+		add_core_of = SAC
 
 		buildings = {
 			infrastructure = 1

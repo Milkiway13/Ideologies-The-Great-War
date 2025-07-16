@@ -7,8 +7,8 @@ state = {
 
 	history = { 
 
-		owner = POR
-		add_core_of = CBV
+		owner = EUK
+		add_core_of = EUK
 
 		victory_points = {
 			13014 1 # Praia

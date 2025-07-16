@@ -6,8 +6,8 @@ state = {
 
 	history = {
 
-		owner = JAP
-		add_core_of = JAP
+		owner = JEM
+		add_core_of = JEM
 
 		buildings = {
 			infrastructure = 4 #was: 7
@@ -27,17 +27,6 @@ state = {
 		victory_points = {
 			10125 25 # Nagoya
 		}
-
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-				industrial_complex = 3
-				10125 = {
-					air_facility = 1 # Mitsubishi Arnsenals 
-				}
-			}
-		}
-
 	}
 
 	provinces = {
