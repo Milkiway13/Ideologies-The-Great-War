@@ -12,12 +12,11 @@ state={
 		7448 7584 10896 12248 12877 
 	}
 	history={
-		owner = AFG
+		owner = CAU
 		buildings = {
 			infrastructure = 1 
 		}
-		add_core_of = AFG
-		add_core_of = TMS
+		add_core_of = CAU
 		victory_points = {
 			12248 1
 		}

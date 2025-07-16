@@ -11,12 +11,13 @@ state={
 	}
 
 	history={
-		owner = MEX
+		owner = CSN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = MEX
+		add_core_of = CSN
+		add_core_of = CAG
 		victory_points = {
 			13089 10
 		}

@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = USA
+		owner = CSN
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 3
@@ -15,18 +15,14 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = USA
+		add_core_of = CSN
 		victory_points = {
 			7480 1 
 		}
 		victory_points = {
 			12735 1 
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-			}
-		}
+		
 
 	}
 
