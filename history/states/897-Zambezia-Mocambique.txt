@@ -5,18 +5,15 @@ state={
 	state_category = pastoral 
 
 	history={
-		owner = POR
+		owner = PUS
 		buildings = {
 			infrastructure = 2
 			2123 = {
 				naval_base = 1
-
 			}
-
 		}
 
-		add_core_of = MZB
-
+		add_core_of = PUS
 	}
 	provinces={
 		2123 2159 2180 2202 2217 5164 10972 12971 
