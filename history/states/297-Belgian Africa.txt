@@ -8,8 +8,8 @@ state=
 	
 	history=
 	{
-		owner = SPR
-		add_core_of = EQG
+		owner = MIT
+		add_core_of = MIT
 		victory_points = {
 			1903 1 
 		}

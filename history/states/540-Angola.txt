@@ -6,8 +6,8 @@ state = {
 
 	history = {
 
-		owner = POR
-		add_core_of = ANG
+		owner = MIT
+		add_core_of = MIT
 
 		buildings = {
 			infrastructure = 1

@@ -12,8 +12,8 @@ state = {
 
 	history = {
 
-		owner = ENG
-		add_core_of = ZAM
+		owner = MIT
+		add_core_of = MIT
 
 		victory_points = {
 			5199 2 #Lusaka

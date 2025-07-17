@@ -6,7 +6,8 @@ state={
 	
 	history=
 	{
-		owner = ENG
+		owner = EUK
+		add_core_of = EUK
 		buildings = {
 			infrastructure = 2
 			13019 = {
