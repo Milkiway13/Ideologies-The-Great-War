@@ -12,8 +12,11 @@ state={
 	state_category=town
 	local_supplies=0.000
 	history={
-
-		owner = RAJ
+		owner = CHF
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 		buildings = {
 			infrastructure = 1
 		}

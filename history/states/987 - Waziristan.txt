@@ -11,15 +11,13 @@ state={
 	}
 
 	history={
-		owner = RAJ
-		buildings = {
-		}
-		add_core_of = NWF
-		add_core_of = PAK
-		add_core_of = KHL
-		set_compliance = 0
-		start_resistance = yes
-		set_resistance =  70
+		owner = CHF
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
+		add_core_of = INI
+		add_core_of = CAU
 		buildings = {
 			infrastructure = 1
 		}

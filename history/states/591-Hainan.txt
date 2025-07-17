@@ -5,10 +5,11 @@ state={
 	state_category = town
 
 	history={
-		owner = GXC
-		add_core_of = GXC
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = CHD
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 		
 		victory_points = {
 			1070 1 
@@ -20,18 +21,6 @@ state={
 			1070 = {
 				naval_base = 2
 			}
-
-		}
-
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = { has_dlc = "Waking the Tiger" }
-				}
-				remove_core_of = GXC
-				CHI = { transfer_state = PREV }
-			}
-			controller = JAP
 		}
 	}
 

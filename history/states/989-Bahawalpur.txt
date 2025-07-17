@@ -6,8 +6,12 @@ state={
 	}
 
 	history={
-		owner = RAJ
-		add_core_of = RJP
+		owner = CHF
+		add_core_of = INI
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 		buildings = {
 			infrastructure = 1
 		}

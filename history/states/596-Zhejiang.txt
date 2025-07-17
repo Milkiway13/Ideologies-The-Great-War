@@ -6,9 +6,11 @@ state = {
 
 	history = {
 
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = PRC
+		owner = CHD
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 		
 		victory_points = { 
 			9974 1 # Ningbo
@@ -39,19 +41,6 @@ state = {
 			}
 		}
 
-		1938.10.25 = {		
-			JAP = {
-				set_province_controller = 1055
-				set_province_controller = 1096
-				set_province_controller = 4042
-				set_province_controller = 7058
-				set_province_controller = 7191
-				set_province_controller = 9974
-				set_province_controller = 10014
-				set_province_controller = 10101
-				set_province_controller = 11991
-			} 			
-		}
 	}
 
 	provinces = {

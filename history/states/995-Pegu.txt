@@ -8,9 +8,9 @@ state = {
 	
 	history = {
 
-		owner = BRM
-		add_core_of = BRM
-
+		owner = INI
+		add_core_of = INI
+		add_claim_by = OST
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

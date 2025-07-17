@@ -6,10 +6,11 @@ state={
 	}
 
 	history={
-		owner = MAN
-		add_core_of = CHI
-		add_core_of = MAN
-		add_core_of = PRC
+		owner = CHM
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 		buildings = {
 			infrastructure = 2
 			arms_factory = 2

@@ -10,7 +10,7 @@ state= {
 
 	history= {
 		owner = RUE
-		add_claim_by = JAP
+		add_claim_by = JEM
 		add_core_of = RUE 
 		buildings = {
 			infrastructure = 2

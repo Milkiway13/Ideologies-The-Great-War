@@ -6,14 +6,17 @@ state={
 	}
 
 	history={
-		owner = MON
+		owner = CHC
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 		buildings = {
 			infrastructure = 1
 		}
 		victory_points = {
 			12612 1 #Sainshand
 		}
-		add_core_of = MON
 	}
 	manpower=11000
 	buildings_max_level_factor=1.000

@@ -6,25 +6,17 @@ state={
 	}
 
 	history={
-		owner = CHI
-		add_core_of = CHI
-		add_core_of = TIB
-		add_core_of = PRC
+		owner = CHF
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 		buildings = {
 			infrastructure = 1
-
 		}
 		victory_points = {
 			10856 1
 		}
-		1939.1.1 = {
-			buildings = {
-				infrastructure = 1
-
-			}
-
-		}
-
 	}
 
 	provinces={

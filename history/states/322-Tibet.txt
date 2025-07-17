@@ -6,14 +6,15 @@ state={
 	}
 
 	history={
-		owner = TIB
+		owner = CHF
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
-
 		}
-		add_core_of = TIB
-
 	}
 
 	provinces={

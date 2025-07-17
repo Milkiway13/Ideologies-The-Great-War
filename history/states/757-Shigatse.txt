@@ -8,7 +8,6 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = rural
 	history={
-		owner = TIB
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
@@ -17,8 +16,11 @@ state={
 		victory_points = {
 			5033 5 
 		}
-		add_core_of = TIB
-
+		owner = CHF
+		add_core_of = CHF
+		add_core_of = CHD
+		add_core_of = CHM
+		add_core_of = CHC
 	}
 
 	local_supplies=0.0 
