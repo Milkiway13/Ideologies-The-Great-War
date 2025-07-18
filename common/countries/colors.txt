@@ -120,6 +120,10 @@ MIT = {
 	color = rgb { 180 180 180 }
 	color_ui = rgb { 150 150 150 }
 }
+BOR = {
+	color = rgb { 255 255 200 }
+	color_ui = rgb { 200 200 145 }
+}
 SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 163 17 31 }

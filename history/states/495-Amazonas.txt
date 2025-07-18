@@ -4,8 +4,8 @@ state={
 	name="STATE_495"
 
 	history={
-		owner = BRA
-		add_core_of = BRA
+		owner = BOR
+		add_core_of = BOR
 		buildings = {
 			infrastructure = 0
 

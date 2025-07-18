@@ -12,8 +12,8 @@ state = {
 
 	history = { 
 
-		owner = URG
-		add_core_of = URG
+		owner = SAC
+		add_core_of = SAC
 
 		buildings = {
 			infrastructure = 2

@@ -37,4 +37,4 @@ SPF = "countries/Spanish Protectorate.txt"
 
 #Fascist/Monarchist Countries
 MIT = "countries/Mittelafrika.txt"
-BOL = "countries/Bolivar Kingdom.txt"
+BOR = "countries/Bolivar Kingdom.txt"
