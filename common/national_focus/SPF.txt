@@ -1,0 +1,33 @@
+focus_tree = {
+	id = iberian_protectorate_tree
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SPF
+		}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 0 y = 2500 }
+
+    focus = {
+        id = SPF_the_end_of_chaos
+		available = {
+			has_global_flag = spanish_civil_war_end
+		}
+        x = 0
+        y = 0
+        cost = 5
+        completion_reward = {
+    		add_political_power = 50
+			add_stability = 0.15
+        }
+    }
+
+	focus = {
+		id = SPF_break_chains
+	}
+}

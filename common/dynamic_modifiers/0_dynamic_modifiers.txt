@@ -1,0 +1,36 @@
+SPF_spanish_civil_War = {
+    icon = GFX_idea_chi_war_of_resistance
+    enable = { always = yes }
+    army_attack_factor = SPF_civilwar_attack
+    max_planning_factor = SPF_civilwar_max_planning
+    training_time_army_factor = SPF_civilwar_training_time
+    production_speed_buildings_factor = SPF_civilwar_construction_speed
+    stability_factor = SPF_civilwar_stability
+}
+
+KSP_spanish_civil_War = {
+    icon = chi_war_of_resistance
+    enable = { always = yes }
+    army_attack_factor = KSP_civilwar_attack
+    max_planning_factor = KSP_civilwar_max_planning
+    training_time_army_factor = KSP_civilwar_training_time
+    production_speed_buildings_factor = KSP_civilwar_construction_speed
+}
+
+DSP_spanish_civil_War = {
+    icon = chi_war_of_resistance
+    enable = { always = yes }
+    army_attack_factor = DSP_civilwar_attack
+    max_planning_factor = DSP_civilwar_max_planning
+    training_time_army_factor = DSP_civilwar_training_time
+    production_speed_buildings_factor = DSP_civilwar_construction_speed
+}
+
+SSR_spanish_civil_War = {
+    icon = chi_war_of_resistance
+    enable = { always = yes }
+    army_attack_factor = SSR_civilwar_attack
+    max_planning_factor = SSR_civilwar_max_planning
+    training_time_army_factor = SSR_civilwar_training_time
+    production_speed_buildings_factor = SSR_civilwar_construction_speed
+}
